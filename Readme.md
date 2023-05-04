@@ -1,0 +1,1 @@
+This is an example node package marked as private for sourcing via a tarball or HTTP link. It is not actually private or sensitive!
